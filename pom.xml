@@ -16,7 +16,7 @@
     	<mule.tools.version>1.2</mule.tools.version>
     	<activemq.version>5.15.4</activemq.version>
     	<uid>udhaygo</uid>
-    	<pwd></pwd>
+    	<pwd></pwd> 
 	</properties>
 
 	<build>
